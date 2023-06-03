@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Tarefa04 {
+public class Tarefa04 {
+    public static void main(String[] args) {
+
+    }
 }
